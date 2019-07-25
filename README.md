@@ -13,6 +13,11 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 # Vendor_Ecommerce
 This is a Simple CURD application that uses Laravel framework and MongoDb as the database.  The product has no authentication.  
 
+# Requirements
+1. Laravel 5.8 - Php Framework
+2. Composer v1.8.6 - Dependency Manager for PHP
+3. Mongodb 3.0 - Database
+
 # Features
 1. Vendors can create products as a single product and a combo product.
 2. Vendors can view the products added directly.
@@ -31,7 +36,6 @@ This is a Simple CURD application that uses Laravel framework and MongoDb as the
 
 3. Add combo Products
 <img width="1679" alt="Screenshot 2019-07-25 at 9 47 34 PM" src="https://user-images.githubusercontent.com/38372696/61891878-456f8580-af28-11e9-830b-62a96aa81db3.png">
-
 
 # License 
 The Laravel framework is open-sourced software licensed under the MIT license.
